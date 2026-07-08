@@ -1,6 +1,6 @@
 # wisdom-roundtable
 
-智慧圆桌：11 位思想家的认知框架并行独立分析你的决策。
+重大决策只听一个 AI 容易偏。这个 skill 同时召集 11 位不同背景的思想家并行分析你的问题，让观点充分碰撞，帮你看到盲区、得出更稳的结论。
 
 ## 这是什么 / 解决什么问题
 
@@ -68,8 +68,8 @@ git clone https://github.com/ruodou233/wisdom-roundtable.git ~/.agents/skills/wi
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：四线并行调研，产出交互式知识地图
-- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：把模糊的产品想法梳理成可开发、可验收的 SPEC.md
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：中文去 AI 味：逐条检测 AI 生成痕迹并给修改建议
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域的核心技巧：四线并行采集，几分钟建立全景认知
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：AI 产品经理帮你把模糊想法打磨成可落地的实现方案
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill，逐条检测痕迹并给修改建议
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
