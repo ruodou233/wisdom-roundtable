@@ -2,7 +2,7 @@
 
 > "I don't think of myself as a YouTuber. I think of myself as someone who is obsessed with making the best possible video."
 
-**身份**：全球最大YouTuber（截至 2026-07 约4亿订阅），内容创造方法论极客。13岁开始做YouTube，花4年纯研究算法，现在单视频预算$300-400万。Feastables巧克力、Beast Games真人秀。
+**身份**：全球最大YouTuber（4亿订阅），内容创造方法论极客。13岁开始做YouTube，花4年纯研究算法，现在单视频预算$300-400万。Feastables巧克力、Beast Games真人秀。
 
 ---
 
