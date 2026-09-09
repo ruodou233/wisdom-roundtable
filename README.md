@@ -1,6 +1,13 @@
 # wisdom-roundtable
 
-重大决策只听一个 AI 容易偏。这个 skill 同时召集 11 位不同背景的思想家并行分析你的问题，让观点充分碰撞，帮你看到盲区、得出更稳的结论。
+重大决策只听一个 AI 容易偏，日常想点子也容易卡在同一个思路里。这个 skill 从 11 位不同背景的思想家认知框架中，挑出最相关的 2–4 个视角，分别分析你的问题，再把共识和分歧摆到一起。选方向、做产品、打磨选题，都可以拉一桌看看。
+
+## 什么事可以拉个圆桌
+
+- **大事拿不定主意**：换工作、做自己的产品、调整业务方向，让不同视角把各自看重的东西讲清楚。“我该不该辞职做自己的 AI 产品？圆桌看看。”
+- **产品想法还差一口气**：有人看用户，有人看工程，有人看增长，看看同一个想法在他们眼里分别卡在哪里。“这个工具做出来了，为什么大家只试一次就走？圆桌看看。”
+- **选题和表达找不到突破口**：从注意力、故事、产品感等角度各出一版思路。“这个短视频选题怎么讲，观众才愿意听下去？用圆桌分析一下。”
+- **想法太顺，反而不踏实**：选几个会提出不同问题的视角，看看你默认成立的前提。“这个方案我越想越对，圆桌找几个会不同意的视角来看看。”
 
 ## 这是什么 / 解决什么问题
 
@@ -33,15 +40,6 @@ git clone https://github.com/ruodou233/wisdom-roundtable.git ~/.agents/skills/wi
 
 其他支持 SKILL.md 的平台：放入其 skills 目录即可。
 
-## 使用示例
-
-- 「我该不该辞职做自己的 AI 产品？圆桌看看」
-  - 预期行为：推荐芒格、Naval、Karpathy、Paul Graham 等视角，分别分析风险、杠杆、AI 工程现实和创业路径。
-- 「这个短视频选题怎么优化？让 MrBeast 和乔布斯视角看看」
-  - 预期行为：按指定人选分析点击、留存、传达和产品感。
-- 「我们公司未来三年的战略方向，给我多几个视角」
-  - 预期行为：选择商业、产品、组织、风险等互补视角，先汇总共识与分歧，再展开各方判断。
-
 ## 首次使用：环境自适应
 
 本 skill 无需 local-config。运行前由你的 Agent 只读检测所在平台是否支持并行子代理：
@@ -68,8 +66,8 @@ git clone https://github.com/ruodou233/wisdom-roundtable.git ~/.agents/skills/wi
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域的核心技巧：四线并行采集，几分钟建立全景认知
-- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：AI 产品经理帮你把模糊想法打磨成可落地的实现方案
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：目前最强的去 AI 味 skill，逐条检测痕迹并给修改建议
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：中文去 AI 味：文章、演讲稿、口播和产品文案，改完还像你自己写的
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
