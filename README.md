@@ -1,4 +1,6 @@
-# wisdom-roundtable
+# AI 智慧圆桌｜AI Brainstorming & Decision Support
+
+Explore ideas and decisions through multiple mental models, then compare their assumptions, blind spots, agreements, and disagreements.
 
 重大决策只听一个 AI 容易偏，日常想点子也容易卡在同一个思路里。这个 skill 从 11 位不同背景的思想家认知框架中，挑出最相关的 2–4 个视角，分别分析你的问题，再把共识和分歧摆到一起。选方向、做产品、打磨选题，都可以拉一桌看看。
 
@@ -66,8 +68,8 @@ git clone https://github.com/ruodou233/wisdom-roundtable.git ~/.agents/skills/wi
 ## 相关 Skill 推荐
 
 <!-- 本表由维护脚本生成，勿手工编辑 -->
-- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白
-- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案
-- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：AI 写的中文一眼就能看出来？逐条找出 AI 味、给出具体修改建议，让文章、讲稿和文案读起来像你写的。
+- [domain-explorer](https://github.com/ruodou233/domain-explorer)：速通新领域：入门、转行、选课题，先把来龙去脉和各路说法弄明白<br>Get up to speed on a new topic through its history, competing approaches, expert debates, and practical experience.
+- [improve-product-plan](https://github.com/ruodou233/improve-product-plan)：想做成一个作品？把应用、工具、自动化和游戏想法打磨成能开工的方案<br>Plan product requirements and MVP scope, then produce a development spec with milestones and acceptance criteria.
+- [de-ai-taste](https://github.com/ruodou233/de-ai-taste)：AI 写的中文一眼就能看出来？逐条找出 AI 味、给出具体修改建议，让文章、讲稿和文案读起来像你写的。<br>Review AI-written Chinese and suggest edits to remove formulaic phrasing while preserving the author's voice.
 
 完整目录见 [GitHub 主页](https://github.com/ruodou233)。
